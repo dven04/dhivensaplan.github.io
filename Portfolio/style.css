@@ -1,0 +1,14 @@
+body {
+    background-color: #D8D3D0;
+    color: black;
+}
+.intro {
+    text-align: justify;
+}
+.container {
+    text-align: justify;
+}
+li a {
+    padding: 15px;
+    color: blue;
+}
